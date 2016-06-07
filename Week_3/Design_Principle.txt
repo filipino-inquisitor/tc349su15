@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+
+<head>
+
+<link href="/normalize.css" rel="stylesheet">
+<link href='https://fonts.googleapis.com/css?family=Josefin+Sans' rel='stylesheet' type='text/css'>
+
+</head>
+
+<body>
+
+<header>
+
+	<h1>Design Principles</h1>
+
+</header>
+
+<article>
+    <h2>Rule of Thirds (Appeal):</h2>
+    <p>A technique in composition in which a medium is divided 
+    into thirds, creating aesthetic positions for design.</p>
+    <img src="https://christiannarvios.files.wordpress.com/2016/06/rule_of_thirds_fitbit1.png" alt="Fitbit homepage"/>
+    <p>The way Fitbit has their page layout is in horizontal thirds. The user is able to 
+		clearly distinct seperate areas by a clean horizontal change.</p>
+</article>
+
+<article>
+    <h2>80/20 Rule (Usability):</h2>
+    <p>A high percentage of effects in any large system are caused
+    by a low percentage of variables.</p>
+    <img src="https://christiannarvios.files.wordpress.com/2016/06/80_20_rule_usaa_mobile1.png" alt="USAA Mobile homepage"/>
+    <p>Mobile applications today use this rule to the fullest. Developers want to maximize
+		the overall functionality by giving the users the basics. With a simplest
+		sign-on process as well as navigation throughout the application, USAA gets an 
+		outstanding on using the 80/20 rule flawlessly.</p>
+</article>
+
+<article>
+<h2>Hick's Law (Usability):</h2>
+    <p>The time it takes to make a decision increases as the number
+    of alternatives increases.</p>
+    <img src="https://christiannarvios.files.wordpress.com/2016/06/hicks_law_amazon1.png" alt="Amazon homepage"/>
+    <p>There are a lot of options for the user to select once they enter Amazon's homepage.
+		With so many choices, it increases the time the user takes on making their 
+		decision. They offer so much that it sometimes hurts the efficency of the
+		overall masses.</p>
+</article>
+
+<article>
+    <h2>Signal-to-Noise Ratio (Learning):</h2>
+    <p>The ratio of relevant to irrelevant information in a display.</p>
+    <img src="https://christiannarvios.files.wordpress.com/2016/06/s_n_ratio_google1.png" alt="Google homepage"/>
+    <p>Extremely simple. There is only the search box which is what users use the 
+		brand for. Google only shows what is relevant as well to most searches. </p>
+</article>
+
+<article>
+    <h2>Ockham's Razor (Decision):</h2>
+    <p>Given the choice between functionally equivalent designs,	
+    the simplest design should be selected.</p>
+    <img src="https://christiannarvios.files.wordpress.com/2016/06/okhams_razor_ello1.png" alt="Ello homepage"/>
+    <p>Similiar to the S/N Ratio, it displays a clean aspect with not many irrelevant information
+		on the page. It shows images and those images can be selected. This gives the website both a 
+		functionality and designability that truly meets clean expectations.</p>
+</article>
+
+</body>

@@ -1,0 +1,42 @@
+Scheme:
+- Client's favorite colors
+	- Pink, Green, Purple
+- Personality:
+	- Goof-ball
+	- Lively
+	- Social
+	- Trash talker
+- Purpose:
+	- Show friends / parents about Keira's swimming career and personality
+	- An interactive and responsive website
+
+
+Home Page:
+- Circular image of Kiera Collins
+	- Animated when scrolled across
+		- Serious Face --> Funny Face
+- Have a "like" button that shows number
+- Clear HD background 
+- Using Javascript, have an introductry video welcoming visitors
+		
+About Me:
+- Facts about Kiera Collins
+- Reasons for Swimming
+- Times in competition
+
+
+Media:
+	Photos (Sub-header)
+		- Team
+			- Gators / Mutants
+		- Individual
+		- Medals / Ribbons
+	Videos (Sub-header)
+		- Swim Meets
+		- Bloopers
+	
+Contact:
+- Give thumbnails of social media accounts
+	- Invite visitors to follow Kiera Collins on Instagram and Music.ly
+- Email address of Coaches / Father
+- Web Designer: My email and contact information
